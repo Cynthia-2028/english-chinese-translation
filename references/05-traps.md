@@ -252,10 +252,10 @@
 | as...as ever lived | 和活过的人一样 | 古今无双 | as great a statesman as ever lived／古今少有的大政治家 |
 | as...as...can be | 能多……就多…… | 到极点（再……不过） | It is as plain as plain can be.／那是再明白也没有了。 |
 | as good as | 和……一样好 | 几乎／等于 | It is as good as done.／这就和做好了一样。 |
-| as well as | 和……一样好 | 既……又……（重心在前项） | It is broad as well as long.／那既长且宽。 |
-| may well | 很可能 | 有充分理由／无怪 | He may well be proud of his success.／他获得那样的成功很可以骄傲。 |
-| may as well...as... | 可以……也可以…… | 与其……不如…… | You may as well call a cat a little tiger as call a tiger a big cat.／把虎叫大猫，同样也无妨把猫叫小虎。 |
-| might as well...as... | 也许可以…… | 不啻／犹如（做另一件蠢事） | You might as well throw your money away as spend it in gambling.／把钱花在赌博上，不如丢掉。 |
+| as well as | 和……一样好 | 既……又……（重心在前项） | It is broad as well as long.／那既宽又长。 |
+| may well | 很可能 | 有充分理由／无怪 | He may well be proud of his success.／他有充分理由为自己的成功自豪。 |
+| may as well...as... | 可以……也可以…… | 与其……不如……（两事同样荒唐） | You may as well call a cat a little tiger as call a tiger a big cat.／把猫叫作小老虎，跟把老虎叫作大猫一样荒唐。 |
+| might as well...as... | 也许可以…… | 不啻／无异于（做另一件蠢事） | You might as well throw your money away as spend it in gambling.／把钱赌掉，无异于扔掉。 |
 | cannot...too | 不能太…… | 再……也不过分 | You cannot give him too much money.／给他多少钱都不算多。 |
 | too...to（一般式） | 太……以致于 | 太……而不能 | He was too excited to speak.／他激动得说不出话来。 |
 | only too / all too / but too | 只是太 | 非常 | I am only too glad to help.／我非常乐意帮忙。 |
