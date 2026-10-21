@@ -1,6 +1,13 @@
 ---
 name: english-chinese-translation
+display_name: 英汉互译
+display_name_en: English-Chinese Translation
+version: 1.0.0
 description: 英汉互译（English–Chinese Translation）。既讲透翻译理论与技法，也直接承担中英双向翻译任务：日常对话、微信消息、邮件、会议文件、公文合同，以及学术论文场景下把中文文献译成英文、把英文文献译成中文。译文符合译入语写作规范，不带翻译腔与 AI 味。当用户说「翻译」「译成英文」「译成中文」「这句话英文怎么说」「这句英文什么意思」「帮我看看译得对不对」「译文润色」「学术翻译」「摘要英译」「文献翻译」「有没有翻译腔」，或要求讲解翻译技巧、翻译理论、评析某段译文时使用。
+description_zh: 讲透翻译技法与理论，并承担中英双向翻译，译文符合译入语规范、不带 AI 味
+description_en: Teach translation theory and technique, and translate between Chinese and English so the output reads native and free of AI flavor
+license: MIT
+visibility: public
 ---
 
 # 英汉互译
